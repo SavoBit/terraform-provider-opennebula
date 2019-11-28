@@ -1,3 +1,6 @@
+
+> :warning: **This repository has been disabled**: Please refer to the [official repository](https://github.com/terraform-providers/terraform-provider-opennebula "Farewell, traveler").
+
 # terraform-provider-opennebula
 
 [![Build Status](https://travis-ci.org/OpenNebula/terraform-provider-opennebula.svg?branch=master)](https://travis-ci.org/OpenNebula/terraform-provider-opennebula) [![Coverage Status](https://coveralls.io/repos/github/OpenNebula/terraform-provider-opennebula/badge.svg?branch=test-coveralls)](https://coveralls.io/github/OpenNebula/terraform-provider-opennebula?branch=test-coveralls)
